@@ -1,6 +1,8 @@
 # docker-ionic-android-sdk
 Docker image include Android SDK for building Ionic framework application.
 
+This image is used to build the MeetMap project, with different versions for the Android SDK and Ionic.
+
 [![Docker Build Status](https://img.shields.io/docker/build/kusumoto/docker-ionic-android-sdk.svg)](https://hub.docker.com/r/kusumoto/docker-ionic-android-sdk/)
 
 ## About this project
