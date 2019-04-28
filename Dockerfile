@@ -3,10 +3,10 @@ FROM ubuntu:xenial
 LABEL MAINTAINER="Weerayut Hongsa <kusumoto.com@gmail.com>"
 
 ARG NODEJS_VERSION="8"
-ARG IONIC_VERSION="4.2.1"
+ARG IONIC_VERSION="3.9.2"
 ARG ANDROID_SDK_VERSION="3859397"
 ARG ANDROID_HOME="/opt/android-sdk"
-ARG ANDROID_BUILD_TOOLS_VERSION="26.0.0"
+ARG ANDROID_BUILD_TOOLS_VERSION="28.0.3"
 
 # 1) Install system package dependencies
 # 2) Install Nodejs/NPM/Ionic-Cli
