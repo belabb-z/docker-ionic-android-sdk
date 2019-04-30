@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM starefossen/ruby-node
 
 LABEL MAINTAINER="Weerayut Hongsa <kusumoto.com@gmail.com>"
 
