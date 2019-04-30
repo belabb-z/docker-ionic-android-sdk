@@ -1,4 +1,4 @@
-FROM starefossen/ruby-node
+FROM starefossen/ruby-node:2-8
 
 LABEL MAINTAINER="Weerayut Hongsa <kusumoto.com@gmail.com>"
 
